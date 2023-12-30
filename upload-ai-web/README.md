@@ -5,7 +5,7 @@
     <img src="http://img.shields.io/static/v1?label=STATUS&message=DEPLOY&color=orange"/>
 </p>
 
-<img src="upload-ai-web/assets/nlw.jpg" alt="Demonstração do projeto funcionando">
+<img src="../upload-ai-web/assets/nlw.jpg" alt="Demonstração do projeto funcionando">
 
 ## 🖥️ Sobre
 
